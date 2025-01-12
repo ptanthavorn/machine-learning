@@ -12,7 +12,7 @@ This repository showcases my machine learning projects, where I apply various te
    **Objective:** Predict user churn based on demographic and usage data.  
    **Link:** https://github.com/ptanthavorn/machine-learning/blob/main/Traveler_Churn_Prediction.ipynb
 
-4. **Customer Review Analysis**  
+4. **Customer Product Review Analysis**  
    **Skills:** Natural Language Processing (NLP), VADER, RoBERTa, Word Cloud, Topic Modeling (LDA), matplotlib, seaborn  
    **Objective:** Perform sentiment analysis and assign positive/negative scores to customer reviews.  
    **Link:** https://github.com/ptanthavorn/machine-learning/blob/main/Traveler_Churn_Prediction.ipynb 
