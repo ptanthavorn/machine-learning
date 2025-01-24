@@ -15,4 +15,4 @@ This repository showcases my machine learning projects, where I apply various te
 4. **Customer Product Review Analysis**  
    **Skills:** Natural Language Processing (NLP), VADER, RoBERTa, Word Cloud, Topic Modeling (LDA), matplotlib, seaborn  
    **Objective:** Perform sentiment analysis and assign positive/negative scores to customer reviews.  
-   **Link:** https://github.com/ptanthavorn/machine-learning/blob/main/Traveler_Churn_Prediction.ipynb ](https://github.com/ptanthavorn/machine-learning/blob/main/Customer_Review_Analysis.ipynb
+   **Link:** https://github.com/ptanthavorn/machine-learning/blob/main/Customer_Review_Analysis.ipynb
